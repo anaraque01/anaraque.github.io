@@ -1,6 +1,6 @@
 ## Arte y Artista
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Universidad de Granada
 
 
 
@@ -14,9 +14,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Ana María Araque Toro
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca interactuar con el jugador de forma dinámica, enseñar sobre arte de forma curiosa y entretenida.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego/quizz interactivo.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -24,19 +24,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo, no reescalable.
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Microsoft Edge.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 55MB. 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 14/06/2020
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -45,9 +43,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+El proyecto comienza con una breve pantalla introductoria donde habla una estatua a modo de presentación. Tras saltarla, aparece la pantalla de Inicio donde podremos encontrar otras secciones como la galería o los créditos. Si elegimos "iniciar", se nos trasladará a otra pantalla de elección, entre una visita interactiva por el museo o una visita al quizz sobre autores. El quizz, una vez finalizado, nos llevará a una recompensa y a su vez, a un código secreto que nos permitirá terminar el juego. Si elegimos visitar la galería, se nos hará una visita general a través del juego entero. Por último, la pantalla de créditos muestra todas las fuentes de información y programas utilizados.
 
 
 
@@ -80,13 +76,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque aborda temas no muy conocidos sobre artistas y cuadros. Es un pequeño juego interactivo y curioso.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos.
 
 
 
