@@ -64,8 +64,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Portfolio [Kazarahama](http://www.kazarahama.jp/portfolio) como organización de la navegación y las transiciones.
-- [tim](http://www.thisismirador.com/kommigraphics/) como directorio inspiracional.
-- [mjgd](https://mjgonzalezdiaz.github.io/CATDetective.html) para el aspecto general y la organización de secciones con Hippani.
+- [This Is Mirador](http://www.thisismirador.com/kommigraphics/) como directorio inspiracional.
+- [mjgonzalezdiaz](https://mjgonzalezdiaz.github.io/CATDetective.html) para el aspecto general y la organización de secciones con Hippani.
 
 
 
