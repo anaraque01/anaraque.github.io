@@ -63,8 +63,9 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Portfolio [Kazarahama](http://www.kazarahama.jp/portfolio) como organización de la navegación y las transiciones.
+- [tim](http://www.thisismirador.com/kommigraphics/) como directorio inspiracional.
+- [mjgd](https://mjgonzalezdiaz.github.io/CATDetective.html) para el aspecto general y la organización de secciones con Hippani.
 
 
 
@@ -84,7 +85,7 @@ Este  proyecto es interesante porque aborda temas no muy conocidos sobre artista
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+
 
 - Juego. La idea principal y con la que decidido trabajar finalmente para el juego es con un tipo de navegación que permitiera retroceder y avanzar en todas las secciones disponibles, así como organizarlo de manera que el juego alternara entre secciones "culturales" y secciones "interactivas". Para ello, realizé una maqueta previa sobre papel del menú de navegación y cómo podrían estructurarse las secciones, de forma organizada.
 - Video. Para los vídeos utilizados en mi proyecto, la idea principal era trabajar con gifs. Sin embargo, por el peso y porque ralentizaban la interfaz, opté por dejarlos a un lado y hacer uso de vídeos en loop de pocos segundos, que no pesaban demasiado y no dejaban señal del bucle.
@@ -99,15 +100,16 @@ Este  proyecto es interesante porque aborda temas no muy conocidos sobre artista
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+El único problema que he encontrado y puede que no haya sido atajado se encuentra en el quizz. Pese a revisar el código, hay veces que los tres aciertos no son contados debidamente y el juego continua, cuando debería saltar la ventana de recompensa.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
+Como primera vez que manejo este programa y como primera vez que realizo un juego interactivo basándome en código, ha sido una experiencia tanto pesada como creativa. Creativa en el sentido en que hemos dispuesto de bastante libertad a la hora de crear nuestro proyecto y todo lo que se encontraba dentro. También agradezco la forma en que ha sido organizada la asignatura, centrándonos en el proyecto final desde el primer momento y utilizándolo como método de aprendizaje para las prácticas. El problema quizá más importante que he encontrado ha podido ser manejar y entender el código que utilizaba, si bien tras darle un par de vueltas e interactuar, se solventaba. Otro problema menor que enfrenté fue entender el manejo del programa y de los scripts.
 
+Al ser la primera vez que utilizo Hippani, entiendo que el resultado es muy limitado y que hay mucho lugar a la mejora. Por eso creo que todvía hay mucho camino que explorar con respecto al programa y mi forma de trabajar en él.
 
 
 
@@ -117,13 +119,17 @@ Este  proyecto es interesante porque aborda temas no muy conocidos sobre artista
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+- Hutchinson, S. (2014, 16 septiembre). 15 Facts About Famous Art. Mentalfloss. https://www.mentalfloss.com/article/58387/15-things-you-didnt-know-about-famous-art
+- Kuriyama, E. A. (2020, 20 abril). 25 Things You Didn’t Know About Famous Works of Art. Complex. https://www.complex.com/style/2013/11/famous-works-of-art/
+- 25 Kickass and Interesting Facts About Paintings. (2014, 18 noviembre). KickassFacts.Com. https://www.kickassfacts.com/25-kickass-and-interesting-facts-about-paintings/
+- Fascinating Facts About Ten Famous Paintings. (2021, 2 febrero). Owlcation. https://owlcation.com/humanities/Fascinating-Facts-About-Ten-Famous-Paintings
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  https://www.youtube.com/watch?v=3V-pYCGx0C4
+* Imágenes:  https://www.pexels.com/
+* Coloring: https://www.deviantart.com/night-gate/art/PSD-62-Dawn-by-night-gate-650091413
+* Tipografía: Times New Roman.
 
 **Herramientas utilizadas**
 
@@ -131,11 +137,13 @@ Este  proyecto es interesante porque aborda temas no muy conocidos sobre artista
 - Adobe After Effects 2020
 - Adobe Media Encoder 2020
 - Adobe Photoshop CC 2020
+- Mug Life (App móvil)
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
 ![cc](https://licensebuttons.net/l/by-nd/3.0/88x31.png)
+
 https://creativecommons.org/licenses/?lang=es
 
 Junio 2021
