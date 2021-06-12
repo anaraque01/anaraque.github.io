@@ -49,13 +49,7 @@ El proyecto comienza con una breve pantalla introductoria donde habla una estatu
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
+![nav](https://i.imgur.com/0sWUW2wl.jpg)
 
 
 
@@ -76,7 +70,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque aborda temas no muy conocidos sobre artistas y cuadros. Es un pequeño juego interactivo y curioso.
+Este  proyecto es interesante porque aborda temas no muy conocidos sobre artistas y sus cuadros.
 
 
 
@@ -92,11 +86,14 @@ Este  proyecto es interesante porque aborda temas no muy conocidos sobre artista
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego. La idea principal y con la que decidido trabajar finalmente para el juego es con un tipo de navegación que permitiera retroceder y avanzar en todas las secciones disponibles, así como organizarlo de manera que el juego alternara entre secciones "culturales" y secciones "interactivas". Para ello, realizé una maqueta previa sobre papel del menú de navegación y cómo podrían estructurarse las secciones, de forma organizada.
+- Video. Para los vídeos utilizados en mi proyecto, la idea principal era trabajar con gifs. Sin embargo, por el peso y porque ralentizaban la interfaz, opté por dejarlos a un lado y hacer uso de vídeos en loop de pocos segundos, que no pesaban demasiado y no dejaban señal del bucle.
+- Instrucciones y ayuda al usuario. Durante la mayor parte del juego se pueden encontrar pequeños campos de texto que, o bien explican de forma breve sobre qué vas a pinchar, o bien narran algún tipo de información. 
+- Menús y elementos de navegación (botones) Todos los botones que aparecen han sido personalizados con Photoshop para adaptarlos a la interfaz y la paleta en la que me baso para el juego. Todos ellos previavemente trabajados en Photoshop.
+- Música. Para la música, hice uso de un vídeo libre cuya melodía se adaptaba al ambiente del juego. La recorté con Adobe After Effects, y la añadí según se nos había explicado.
+- Galería de fotos. Realizada con una secuencia de imágenes, aplicando el mismo método a la breve exxplicación previa y sincronizada con los botones.
+- Quizz. El quizz se basa en la repetición de código y copia de recursos gráficos, todos ellos personalizados en Photoshop. Dos vías: si se acierta, se avanza hasta acertar 3 de 5 y se otorga recompensa al final. Si se falla, el quizz continuará sin dar recompensa. Si aparece una recompensa, el juego permitirá terminar acertando un código, si no, el juego permanecerá incompleto.
+- Código secreto. Aparece al final del Quizz, y fue realizado según el material aportado por el profesor.
 
 
 
