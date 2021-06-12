@@ -18,17 +18,17 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 **Estilo/género:**  Juego/quizz interactivo.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** :
 
-(insertar imágenes a resolucion de 100px alto)
+![logo](https://i.imgur.com/fqSkWXX.png)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo, no reescalable.
 
-**Probado en:**   Microsoft Edge.
+**Probado en:**   Microsoft Edge, Google Chrome.
 
-**Tamaño proyecto:** 55MB. 
+**Tamaño proyecto:** 56,7MB. 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Este proyecto tiene una Licencia CC Atribución-SinDerivadas CC BY-ND
 
 **Fecha** : 14/06/2020
 
@@ -37,7 +37,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 - Github:
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![girl](https://i.imgur.com/iNDSlkB.png)
 
 # 2. Memoria del proyecto 
 
@@ -131,12 +131,14 @@ Este  proyecto es interesante porque aborda temas no muy conocidos sobre artista
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Adobe After Effects 2020
+- Adobe Media Encoder 2020
+- Adobe Photoshop CC 2020
 
 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
-
+![cc](https://licensebuttons.net/l/by-nd/3.0/88x31.png)
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2021
