@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 **Titulo** : Arte y Artista
 
-**Web:**   (url github.io)
+**Web:**   https://anaraque01.github.io/
 
 **Autor:**  Ana María Araque Toro
 
@@ -34,7 +34,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
+- Github: https://anaraque01.github.io/
 
 
 ![girl](https://i.imgur.com/iNDSlkB.png)
